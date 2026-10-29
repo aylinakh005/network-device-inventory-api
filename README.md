@@ -1,3 +1,4 @@
+![CI](https://github.com/aylinakh005/network-device-inventory-api/actions/workflows/ci.yml/badge.svg)
 # Network Device Inventory API
 
 A small REST API for managing an inventory of simulated network nodes (routers, switches,

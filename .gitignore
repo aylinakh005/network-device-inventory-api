@@ -8,3 +8,4 @@ out/
 .settings/
 *.class
 .DS_Store
+sources.txt
